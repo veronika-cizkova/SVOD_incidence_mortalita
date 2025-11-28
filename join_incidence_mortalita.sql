@@ -1,4 +1,4 @@
-*/vybrat pouze jedno označení diagnózy - 'ZN prsu (C50) u zen' v tabulce incidence i mortalita
+/*vybrat pouze jedno označení diagnózy - 'ZN prsu (C50) u zen' v tabulce incidence i mortalita
 */  
 CREATE OR REPLACE TEMPORARY TABLE "incidence_cancer_diagnoza" AS
 SELECT *
